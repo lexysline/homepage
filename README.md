@@ -1,2 +1,2 @@
-# homepage
-My version of a personal website. Basically this is just a résumé.
+# Homepage
+My version of a personal website by Kent C. Dodds. Basically this is just a résumé.
